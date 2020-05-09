@@ -41,6 +41,7 @@ request.readyState === 4
 ```javascript
 request.status == 200
 ```
+#### Тогда будут выполняться следующие действия.
 ##### в данном случае получаем из локально JSON файла и при помощи метода parse переводим в обычный объект JS:
 ```javascript
 let date = JSON.parse(request.response)
