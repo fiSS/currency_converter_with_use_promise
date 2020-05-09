@@ -1,4 +1,4 @@
-# Конвертер валют ajax.
+# Конвертер валют ajax, JSON.
 #### HTML
 ```html
 <label for="rub">RUB</label>
